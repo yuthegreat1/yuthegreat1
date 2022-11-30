@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuthegreat1
-- 👀 I’m interested in AI and Machine Learning
+- 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning almost everything
 - 📫 How to reach me email - brandyu@bu.edu phone - (314)-828-8158
 
